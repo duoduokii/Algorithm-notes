@@ -7,6 +7,6 @@
 	"author": "duokii <2371233951@qq.com>",
 	"license": "MIT",
 	"scripts": {
-		"tree": "tree -l src >> README.md"
+		"tree": "tree -N src >> README.md"
 	}
 }
