@@ -1,0 +1,12 @@
+{
+	"name": "Algorithm-notes",
+	"version": "1.0.0",
+	"description": "算法刷题笔记",
+	"main": "index.js",
+	"repository": "https://github.com/duoduokii/Algorithm-notes.git",
+	"author": "duokii <2371233951@qq.com>",
+	"license": "MIT",
+	"scripts": {
+		"tree": "tree -l src >> README.md"
+	}
+}
